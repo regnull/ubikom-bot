@@ -20,9 +20,9 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 
 	"github.com/regnull/easyecc"
+	"github.com/regnull/ubikom-bot/newscache"
 	"github.com/regnull/ubikom/bc"
 	"github.com/regnull/ubikom/globals"
-	"github.com/regnull/ubikom/newscache"
 	"github.com/regnull/ubikom/pb"
 	"github.com/regnull/ubikom/protoutil"
 	"github.com/rs/zerolog"
